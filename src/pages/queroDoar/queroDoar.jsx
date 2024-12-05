@@ -1,4 +1,4 @@
-import imagemlivroforms from '../../assets/imagemlivroforms.png'
+import imagemlivroforms from '../../assets/Imagemlivroforms.png'
 import s from './queroDoar.module.scss'
 
 export default function QueroDoar(){
